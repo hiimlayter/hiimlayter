@@ -1,13 +1,13 @@
 <h1>Hello!</h1>
 <h2>About Me</h2>
-👋 Hi, I’m @hiimlayter also known as Mateusz Birkholz. I am a student of applied computer science, who will soon become an engineer.<br>
-👀 I’m interested in web technologies and AI tools.<br>
-🌱 I’m currently learning AI technologies with Python.<br>
-📫 How to reach me: <br><br>
+👋 Hi, I’m @hiimlayter also known as Mateusz Birkholz. I am a student of applied computer science, who will soon become an engineer.</br>
+👀 I’m interested in web technologies and AI tools.</br>
+🌱 I’m currently learning AI technologies with Python.</br>
+📫 How to reach me: </br></br>
+<h2>
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zluvsand)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mateusz-birkholz-a146721a3/)
-[![](https://img.shields.io/badge/Gmail-12100E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuszbirkholz@gmail.com)
-  
+[![](https://img.shields.io/badge/Gmail-12100E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuszbirkholz@gmail.com)  
 
 <!---
 hiimlayter/hiimlayter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
