@@ -1,4 +1,4 @@
-<h1>Hello! <h1><br><br>
+<h1>Hello! <h1>
 About Me
 👋 Hi, I’m @hiimlayter also known as Mateusz Birkholz. I am a student of applied computer science, who will soon become an engineer.<br>
 👀 I’m interested in web technologies and AI tools.<br>
