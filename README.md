@@ -1,5 +1,5 @@
-<h1>Hello! <h1>
- <h2> About Me <h2>
+<h1>Hello! </h1>
+ <h2> About Me </h2>
 - 👋 Hi, I’m @hiimlayter also known as Mateusz Birkholz. I am a student of applied computer science, who will soon become an engineer.
 - 👀 I’m interested in web technologies and AI tools.
 - 🌱 I’m currently learning AI technologies with Python.
