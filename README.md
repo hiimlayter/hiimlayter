@@ -1,12 +1,12 @@
-<h1>Hello! <h1>
-
- <h2> About Me <h2>
+# Hello!
+## About Me
 
 - 👋 Hi, I’m @hiimlayter also known as Mateusz Bikholz. I am a student of applied computer science, who will soon become an engineer.
 - 👀 I’m interested in web technologies and AI tools.
 - 🌱 I’m currently learning AI technologies with Python.
 - 📫 How to reach me:
 
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zluvsand)
+[![](https://img.shields.io/badge/Gmail-12100E?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mateuszbirkholz@gmail.com)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zluvsand/)
-[![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4)
+<br><br>
+![Alt Text](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
