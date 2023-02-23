@@ -1,7 +1,7 @@
 # Hello!
 ## About Me
 
-- 👋 Hi, I’m @hiimlayter also known as Mateusz Bikholz. I am a student of applied computer science, who will soon become an engineer.
+- 👋 Hi, I’m @hiimlayter also known as Mateusz Bikholz. I am a student of applied computer science, who will soon become an engineer. As an IT student, I am passionate about technology and creating innovative solutions that make a positive impact. I have experience in programming languages such as Python, Java, and C# and am always eager to explore emerging technologies. I possess strong communication and teamwork skills and am excited about the opportunities the IT industry presents.
 - 🌱 I’m currently learning AI technologies with Python.<br />
 - 📫 How to reach me:<br /><br />
 
