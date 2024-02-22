@@ -2,7 +2,7 @@
 ## About Me
 
 - 👋 Hi, I’m @hiimlayter also known as Mateusz Bikholz. I am a student of applied computer science, who will soon become an engineer. As an IT student, I am passionate about technology and creating innovative solutions that make a positive impact. I have experience in programming languages such as Python, Java, and C# and am always eager to explore emerging technologies. I possess strong communication and teamwork skills and am excited about the opportunities the IT industry presents.
-- 🌱 I’m currently learning AI technologies with Python.<br />
+- 🌱 I'm currently trying to improve my .NET skills in the context of writing backend applications, and I'm learning the Angular framework.<br />
 - 📫 How to reach me:<br /><br />
 
 [![](https://img.shields.io/badge/Gmail-12100E?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mateuszbirkholz@gmail.com)
